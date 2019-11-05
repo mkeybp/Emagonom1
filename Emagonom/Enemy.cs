@@ -8,5 +8,8 @@ namespace Monogame_Projekt
 {
     class Enemy
     {
+        //Hek
+        //Fordi
+        //bla
     }
 }
