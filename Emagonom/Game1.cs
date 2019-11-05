@@ -10,7 +10,6 @@ namespace Emagonom
     public class Game1 : Game
     {
 
-        //test kejfksejflksej fskjnf
         
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
