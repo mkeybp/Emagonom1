@@ -9,5 +9,7 @@ namespace Monogame_Projekt
     class Enemy
     {
         //this is an enemy
+        //u mom gay
+        // kappa123
     }
 }
