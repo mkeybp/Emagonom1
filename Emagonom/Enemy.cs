@@ -8,5 +8,6 @@ namespace Monogame_Projekt
 {
     class Enemy
     {
+        //this is an enemy
     }
 }
