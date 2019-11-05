@@ -16,6 +16,7 @@ namespace Monogame_Projekt
         //protected List<int> weapons = new List<int>;
         public int playerHealth;
         public int score;
+        public float speed;
 
         public Player()
         {
